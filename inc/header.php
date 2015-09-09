@@ -4,9 +4,9 @@
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald:400,700" type="text/css">
     <link rel="shortcut icon" href="favicon.ico">
-	<script type="text/javascript">var switchTo5x=true;</script>
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-    <script type="text/javascript">stLight.options({publisher: "de9d7d20-3004-4851-850e-3f9d2e83ee55", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+	<script type="text/javascript" charset="utf-8">var switchTo5x=true;</script>
+    <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "de9d7d20-3004-4851-850e-3f9d2e83ee55", onhover: false, doNotHash: true, doNotCopy: false, hashAddressBar: false, shorten:false});</script>
 </head>
 <body>
 	<div class="header">

@@ -1,6 +1,6 @@
 <?php include("inc/products.php"); ?><?php
 $pageTitle = "Kim's Full Catalog of Shirts";
-$section = "shirts";
+$section = "shirts"; 
 include('inc/header.php'); ?>
 
 		<div class="section shirts page">

@@ -23,7 +23,7 @@
 */
 
 /**
- * PHPMailer - PHP email creation and transport class
+ * PHPMailer - PHP email creation and transport class 
  * NOTE: Requires PHP version 5 or later
  * @package PHPMailer
  * @author Andy Prevost
